@@ -14,9 +14,9 @@
   "-threads 6 -tickrate 128 -nod3d9ex -noaafonts -novid -high -freq 144 -refresh 144 +exec gu1zera.cfg"
   
   # OBS sobre alguns comandos:
-  . "-threads 6" : Depende de quantos threads tem seu processador.
-  . "-freq 144 -refresh 144" : Depende da frequencia do seu monitor.
-  . "+exec gu1zera.cfg" : Este é o arquivo onde vai todas suas configurações, você pode edita-lo.
+  . "-threads 6" = Depende de quantos threads tem seu processador.
+  . "-freq 144 -refresh 144" = Depende da frequencia do seu monitor.
+  . "+exec gu1zera.cfg" = Este é o arquivo onde vai todas suas configurações, você pode edita-lo.
     
 
 # Sobre o arquivo "CFG"
@@ -38,17 +38,17 @@
 
 
 # Utilidade de video avancado
-01-Qualidade global das sombras: Muito baixa
-02-Detahle dos modelos de texturas: Baixo
-03-Detahle dos efeitos: Baixo
-04-Detahle do shader: Baixo
-05-Renderização multinuclear: Ativado
-06-Antiserrilhado  de mult amostras: Nenhum
-07-Antiserrilhado FXAA: Desativado
-08-Modo de filtragem de texturas: Bilinear
-09-Aguardar sinc. vertical: Desabilitado
-10-Desfoque de movimento: Desabilitado
-11-Modo de três monitores Desabilitado
+01-Qualidade global das sombras - Muito baixa
+02-Detahle dos modelos de texturas - Baixo
+03-Detahle dos efeitos - Baixo
+04-Detahle do shader - Baixo
+05-Renderização multinuclear - Ativado
+06-Antiserrilhado  de mult amostras - Nenhum
+07-Antiserrilhado FXAA - Desativado
+08-Modo de filtragem de texturas - Bilinear
+09-Aguardar sinc. vertical - Desabilitado
+10-Desfoque de movimento - Desabilitado
+11-Modo de três monitores - Desabilitado
 
 
 Caso apareça mais configurações importantes ou novas atualizarei o documento...
