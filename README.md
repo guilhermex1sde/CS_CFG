@@ -11,7 +11,7 @@
 01-Na steam navegue até sua biblioteca e clique em cima do "CSGO" com botão direito "Propriedades".
 02-Clique em "Definir opções de inicialização", ali vai alguns comandos para performe no jogo e caregamento de sua "CFG" segue           abaixo.
 
-  # "-threads 6 -tickrate 128 -nod3d9ex -noaafonts -novid -high -freq 144 -refresh 144 +exec gu1zera.cfg"
+  "-threads 6 -tickrate 128 -nod3d9ex -noaafonts -novid -high -freq 144 -refresh 144 +exec gu1zera.cfg"
   
   # OBS sobre alguns comandos:
   . "-threads 6" : Depende de quantos threads tem seu processador.
@@ -51,4 +51,4 @@
 11-Modo de três monitores Desabilitado
 
 
-# Caso apareça mais configurações importantes ou novas atualizarei o documento...
+Caso apareça mais configurações importantes ou novas atualizarei o documento...
