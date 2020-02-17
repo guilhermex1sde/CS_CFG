@@ -2,7 +2,7 @@
 
 
 # Configuração de sensibilidade do windows
-01-Pela busca do windows-10 pesqiusar "Mouse" e acesse "Configurações do mouse".
+01-Pela busca do windows-10 pesquisar "Mouse" e acesse "Configurações do mouse".
 
 02-Clique em "Opções adicionais de mouse" "Opções de Ponteiro" e clique em "Opções de Ponteiro".
 
