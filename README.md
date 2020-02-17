@@ -12,7 +12,7 @@
 # Configuração na steam
 01-Na steam navegue até sua biblioteca e clique em cima do "CSGO" com botão direito "Propriedades".
 
-02-Clique em "Definir opções de inicialização", ali vai alguns comandos para performe no jogo e caregamento de sua "CFG" segue           abaixo.
+02-Clique em "Definir opções de inicialização", ali vai alguns comandos para performace no jogo e carregamento de sua "CFG" segue           abaixo.
 
   "-threads 6 -tickrate 128 -nod3d9ex -noaafonts -novid -high -freq 144 -refresh 144 +exec gu1zera.cfg"
   
@@ -21,7 +21,7 @@
   
   02 "-freq 144 -refresh 144" = Depende da frequencia do seu monitor.
   
-  03 "+exec gu1zera.cfg" = Este é o arquivo onde vai todas suas configurações, você pode edita-lo.
+  03 "+exec gu1zera.cfg" = Este é o arquivo onde vai todas suas configurações.
     
 
 # Sobre o arquivo "CFG"
@@ -29,7 +29,7 @@
 
 02-Você pode editar do seu gosto basta abrir o arquivo como "txt" e depois salvar como "cfg".
 
-03-Todos comandos dentro do arquivo contem uma explicação do que ele faz e como ativar e desativar e seu valores.
+03-Todos comandos dentro do arquivo contem uma explicação do que ele faz como ativar, desativar e seus valores.
 
 04-Comandos de hotkeys também deve ser alterados dentro da "CFG".
 
@@ -45,7 +45,7 @@
 # Utilidades sobre crosshair
 01-Você pode fazer o donwload de três arquivos "cfg" de crosshair personalizados.
 
-02-Para utilizar basta abrir o console e digitar "exec mirafallen, exec miracsr, execmiragui" execute apenas um por vez.
+02-Para utilizar basta abrir o console e digitar "exec mirafallen, exec miracsr, exec miragui" execute apenas um por vez.
 
 
 # Utilidade de video avancado
