@@ -4,7 +4,7 @@
 # Configuração de sensibilidade do windows
 01-Pela busca do windows-10 pesquisar "Mouse" e acesse "Configurações do mouse".
 
-02-Clique em "Opções adicionais de mouse" "Opções de Ponteiro" e clique em "Opções de Ponteiro".
+02-Clique em "Opções adicionais de mouse" "Opções adicionais de mouse" e clique em "Opções de Ponteiro".
 
 03-Em "Movimento" selecione a velocidade de um ponteiro com "6 traços" e desmarque "Aprimorar precisão do ponteiro" aplicar e ok.
 
