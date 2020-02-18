@@ -59,11 +59,11 @@
 
 05-Renderização multinuclear - Ativado
 
-06-Antiserrilhado  de mult amostras - Nenhum
+06-Antiserrilhado  de mult amostras - MSAA 2X
 
 07-Antiserrilhado FXAA - Desativado
 
-08-Modo de filtragem de texturas - Bilinear
+08-Modo de filtragem de texturas - Anisotropico 2x
 
 09-Aguardar sinc. vertical - Desabilitado
 
