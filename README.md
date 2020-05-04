@@ -21,7 +21,7 @@
   
   02 "-freq 144 -refresh 144" = Depende da frequencia do seu monitor.
   
-  03 "+exec gu1zera.cfg" = Este é o arquivo onde vai todas suas configurações.
+  03 "+exec gu1zera.cfg" = Este é o arquivo que quando executado gera o deploy de todas suas configurações dentro do jogo.
     
 
 # Sobre o arquivo "CFG"
