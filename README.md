@@ -13,7 +13,7 @@
 * Na steam navegue até sua biblioteca e clique em cima do "CSGO" com botão direito "Propriedades".
 * Clique em "Definir opções de inicialização", ali vai alguns comandos para performace no jogo e carregamento de sua "CFG" segue abaixo:
 
-  "-threads 6 -tickrate 128 -nod3d9ex -noaafonts -novid -high -freq 144 -refresh 144 +exec autobot.cfg"
+  -threads 6 -tickrate 128 -nod3d9ex -noaafonts -novid -high -freq 144 -refresh 144 +exec autobot.cfg
   
   # OBS sobre alguns comandos:
   "-threads 6" = Depende de quantos threads tem seu processador.
